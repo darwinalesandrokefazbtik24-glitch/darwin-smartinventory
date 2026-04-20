@@ -62,7 +62,7 @@ It simulates a **Web3 Point of Sale (POS) system** where:
 ## 🌐 Deployment
 
 * Network: Stellar Testnet
-Contract ID: CDDUCYUHYZVYWS46C7NPGE7QFC4R5EMAV6RKP73HXAXJVO4442O6MNGE
+Contract ID: CC3RRANZBVCVE7LXLPRSRZX64M5SJZDY2HK2FJGFKSWRQX7F2V2MRPDS
 
 ---
 
@@ -116,4 +116,4 @@ Darwin Alesandro Kefaz Butar-Butar
 Educational use only
 
 Screenshots
-![Execution StellarNet](test.png)
+  ![Execution StellarNet](test.png)
